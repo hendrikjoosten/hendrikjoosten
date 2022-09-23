@@ -1,8 +1,12 @@
-# Currently working on
+# Currently working on:
+
 
 :abacus: find more of my work on kaggle: [kaggle.com](https://www.kaggle.com/hendrikjoosten)
+
 :microscope: find my resume on [my personal website](https://www.hendrikjoosten.com)
+
 :hammer_and_wrench: currently building an [org](https://www.open.engineering/) to promote the open source philosophy to engineering in general
+
 
 
 
