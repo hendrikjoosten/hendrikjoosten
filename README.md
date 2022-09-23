@@ -5,7 +5,11 @@
 
 :microscope: find my resume on [my personal website](https://www.hendrikjoosten.com)
 
+:technologist: :man_technologist: :woman_technologist: :wrestling: 	:people_holding_hands: :family: also building pairmeup (link soon tm) :two_men_holding_hands: :dancing_women: :two_men_holding_hands: :dancing_men:
+
 :hammer_and_wrench: currently building an [org](https://www.open.engineering/) to promote the open source philosophy to engineering in general
+
+
 
 
 
