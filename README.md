@@ -1,7 +1,7 @@
 # Currently working on:
 
 
-:abacus: find more of my work on kaggle: [kaggle.com](https://www.kaggle.com/hendrikjoosten)
+:abacus: find more of my work on [kaggle.com](https://www.kaggle.com/hendrikjoosten)
 
 :microscope: find my resume on [my personal website](https://www.hendrikjoosten.com)
 
