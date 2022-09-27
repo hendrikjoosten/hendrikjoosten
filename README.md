@@ -7,20 +7,19 @@
 
 :wrestling: 	also building pairmeup (link soon tm) :two_men_holding_hands: :dancing_women: :two_men_holding_hands: :dancing_men: :technologist: :man_technologist: :woman_technologist: :people_holding_hands: :family: 
 
-:hammer_and_wrench: currently building an [org](https://www.open.engineering/) to promote the open source philosophy to engineering in general
+:hammer_and_wrench: currently building [open.engineering](https://www.open.engineering/) to promote the [open source](https://github.com/open-eng) philosophy beyond software
 
 # Skills:
 
 ## :detective: Data Science 
+
+## :factory_worker: Data Engineer 
 
 ## :technologist: DevOps
 
 ## :mechanic: DataOps
 
 ## :cloud: Cloud Stuff
-
-
-
 
 
 <div align="center">
