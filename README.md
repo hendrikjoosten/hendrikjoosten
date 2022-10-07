@@ -13,11 +13,7 @@
 
 ## :detective: Data Science 
 
-## :factory_worker: Data Engineer 
-
 ## :technologist: DevOps
-
-## :mechanic: DataOps
 
 ## :cloud: Cloud Stuff
 
