@@ -11,9 +11,9 @@
 
 # Skills:
 
-## :detective: Data Science 
+## :detective: Data Science and Machine Learning
 
-## :technologist: DevOps
+## :technologist: DevOps and DataOps
 
 ## :cloud: Cloud Stuff
 
