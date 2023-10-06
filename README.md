@@ -1,16 +1,16 @@
 # Currently:
 
-## Data Engineer at PartsCloud - the Operating System for Digital Spare Parts Logistics
+### Data Engineer at PartsCloud - the Operating System for Digital Spare Parts Logistics
 
 
 
 # Skills:
 
-## :detective: Data Engineering and Machine Learning
+### :detective: Data Engineering and Machine Learning
 
-## :technologist: DevOps and DataOps
+### :technologist: DevOps and DataOps
 
-## :cloud: Cloud Stuff
+### :cloud: Cloud Stuff
 
 
 <div align="center">
