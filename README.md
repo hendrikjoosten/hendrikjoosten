@@ -1,4 +1,4 @@
-i do data engineering with python.
+"but if you look at the data"
 
 some links
 
